@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: ae36123e7a9ef4bf1bab0904a6132722
+timeCreated: 1446548296
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Scavengers_SpriteSheet_0
+    21300002: Scavengers_SpriteSheet_1
+    21300004: Scavengers_SpriteSheet_2
+    21300006: Scavengers_SpriteSheet_3
+    21300008: Scavengers_SpriteSheet_4
+    21300010: Scavengers_SpriteSheet_5
+    21300012: Scavengers_SpriteSheet_6
+    21300014: Scavengers_SpriteSheet_7
+    21300016: Scavengers_SpriteSheet_8
+    21300018: Scavengers_SpriteSheet_9
+    21300020: Scavengers_SpriteSheet_10
+    21300022: Scavengers_SpriteSheet_11
+    21300024: Scavengers_SpriteSheet_12
+    21300026: Scavengers_SpriteSheet_13
+    21300028: Scavengers_SpriteSheet_14
+    21300030: Scavengers_SpriteSheet_15
+    21300032: Scavengers_SpriteSheet_16
+    21300034: Scavengers_SpriteSheet_17
+    21300036: Scavengers_SpriteSheet_18
+    21300038: Scavengers_SpriteSheet_19
+    21300040: Scavengers_SpriteSheet_20
+    21300042: Scavengers_SpriteSheet_21
+    21300044: Scavengers_SpriteSheet_22
+    21300046: Scavengers_SpriteSheet_23
+    21300048: Scavengers_SpriteSheet_24
+    21300050: Scavengers_SpriteSheet_25
+    21300052: Scavengers_SpriteSheet_26
+    21300054: Scavengers_SpriteSheet_27
+    21300056: Scavengers_SpriteSheet_28
+    21300058: Scavengers_SpriteSheet_29
+    21300060: Scavengers_SpriteSheet_30
+    21300062: Scavengers_SpriteSheet_31
+    21300064: Scavengers_SpriteSheet_32
+    21300066: Scavengers_SpriteSheet_33
+    21300068: Scavengers_SpriteSheet_34
+    21300070: Scavengers_SpriteSheet_35
+    21300072: Scavengers_SpriteSheet_36
+    21300074: Scavengers_SpriteSheet_37
+    21300076: Scavengers_SpriteSheet_38
+    21300078: Scavengers_SpriteSheet_39
+    21300080: Scavengers_SpriteSheet_40
+    21300082: Scavengers_SpriteSheet_41
+    21300084: Scavengers_SpriteSheet_42
+    21300086: Scavengers_SpriteSheet_43
+    21300088: Scavengers_SpriteSheet_44
+    21300090: Scavengers_SpriteSheet_45
+    21300092: Scavengers_SpriteSheet_46
+    21300094: Scavengers_SpriteSheet_47
+    21300096: Scavengers_SpriteSheet_48
+    21300098: Scavengers_SpriteSheet_49
+    21300100: Scavengers_SpriteSheet_50
+    21300102: Scavengers_SpriteSheet_51
+    21300104: Scavengers_SpriteSheet_52
+    21300106: Scavengers_SpriteSheet_53
+    21300108: Scavengers_SpriteSheet_54
+    21300110: Scavengers_SpriteSheet_55
+    21300112: Scavengers_SpriteSheet 1_0
+    21300114: Scavengers_SpriteSheet 1_1
+    21300116: Scavengers_SpriteSheet 1_2
+    21300118: Scavengers_SpriteSheet 1_3
+    21300120: Scavengers_SpriteSheet 1_4
+    21300122: Scavengers_SpriteSheet 1_5
+    21300124: Scavengers_SpriteSheet 1_6
+    21300126: Scavengers_SpriteSheet 1_7
+    21300128: Scavengers_SpriteSheet 1_8
+    21300130: Scavengers_SpriteSheet 1_9
+    21300132: Scavengers_SpriteSheet 1_10
+    21300134: Scavengers_SpriteSheet 1_11
+    21300136: Scavengers_SpriteSheet 1_12
+    21300138: Scavengers_SpriteSheet 1_13
+    21300140: Scavengers_SpriteSheet 1_14
+    21300142: Scavengers_SpriteSheet 1_15
+    21300144: Scavengers_SpriteSheet 1_16
+    21300146: Scavengers_SpriteSheet 1_17
+    21300148: Scavengers_SpriteSheet 1_18
+    21300150: Scavengers_SpriteSheet 1_19
+    21300152: Scavengers_SpriteSheet 1_20
+    21300154: Scavengers_SpriteSheet 1_21
+    21300156: Scavengers_SpriteSheet 1_22
+    21300158: Scavengers_SpriteSheet 1_23
+    21300160: Scavengers_SpriteSheet 1_24
+    21300162: Scavengers_SpriteSheet 1_25
+    21300164: Scavengers_SpriteSheet 1_26
+    21300166: Scavengers_SpriteSheet 1_27
+    21300168: Scavengers_SpriteSheet 1_28
+    21300170: Scavengers_SpriteSheet 1_29
+    21300172: Scavengers_SpriteSheet 1_30
+    21300174: Scavengers_SpriteSheet 1_31
+    21300176: Scavengers_SpriteSheet 1_32
+    21300178: Scavengers_SpriteSheet 1_33
+    21300180: Scavengers_SpriteSheet 1_34
+    21300182: Scavengers_SpriteSheet 1_35
+    21300184: Scavengers_SpriteSheet 1_36
+    21300186: Scavengers_SpriteSheet 1_37
+    21300188: Scavengers_SpriteSheet 1_38
+    21300190: Scavengers_SpriteSheet 1_39
+    21300192: Scavengers_SpriteSheet 1_40
+    21300194: Scavengers_SpriteSheet 1_41
+    21300196: Scavengers_SpriteSheet 1_42
+    21300198: Scavengers_SpriteSheet 1_43
+    21300200: Scavengers_SpriteSheet 1_44
+    21300202: Scavengers_SpriteSheet 1_45
+    21300204: Scavengers_SpriteSheet 1_46
+    21300206: Scavengers_SpriteSheet 1_47
+    21300208: Scavengers_SpriteSheet 1_48
+    21300210: Scavengers_SpriteSheet 1_49
+    21300212: Scavengers_SpriteSheet 1_50
+    21300214: Scavengers_SpriteSheet 1_51
+    21300216: Scavengers_SpriteSheet 1_52
+    21300218: Scavengers_SpriteSheet 1_53
+    21300220: Scavengers_SpriteSheet 1_54
+    21300222: Scavengers_SpriteSheet 1_55
+    21300224: Vampires_SpriteSheet_0
+    21300226: Vampires_SpriteSheet_1
+    21300228: Vampires_SpriteSheet_2
+    21300230: Vampires_SpriteSheet_3
+    21300232: Vampires_SpriteSheet_4
+    21300234: Vampires_SpriteSheet_5
+    21300236: Vampires_SpriteSheet_6
+    21300238: Vampires_SpriteSheet_7
+    21300240: Vampires_SpriteSheet_8
+    21300242: Vampires_SpriteSheet_9
+    21300244: Vampires_SpriteSheet_10
+    21300246: Vampires_SpriteSheet_11
+    21300248: Vampires_SpriteSheet_12
+    21300250: Vampires_SpriteSheet_13
+    21300252: Vampires_SpriteSheet_14
+    21300254: Vampires_SpriteSheet_15
+    21300256: Vampires_SpriteSheet_16
+    21300258: Vampires_SpriteSheet_17
+    21300260: Vampires_SpriteSheet_18
+    21300262: Vampires_SpriteSheet_19
+    21300264: Vampires_SpriteSheet_20
+    21300266: Vampires_SpriteSheet_21
+    21300268: Vampires_SpriteSheet_22
+    21300270: Vampires_SpriteSheet_23
+    21300272: Vampires_SpriteSheet_24
+    21300274: Vampires_SpriteSheet_25
+    21300276: Vampires_SpriteSheet_26
+    21300278: Vampires_SpriteSheet_27
+    21300280: Vampires_SpriteSheet_28
+    21300282: Vampires_SpriteSheet_29
+    21300284: Vampires_SpriteSheet_30
+    21300286: Vampires_SpriteSheet_31
+    21300288: Vampires_SpriteSheet_32
+    21300290: Vampires_SpriteSheet_33
+    21300292: Vampires_SpriteSheet_34
+    21300294: Vampires_SpriteSheet_35
+    21300296: Vampires_SpriteSheet_36
+    21300298: Vampires_SpriteSheet_37
+    21300300: Vampires_SpriteSheet_38
+    21300302: Vampires_SpriteSheet_39
+    21300304: Vampires_SpriteSheet_40
+    21300306: Vampires_SpriteSheet_41
+    21300308: Vampires_SpriteSheet_42
+    21300310: Vampires_SpriteSheet_43
+    21300312: Vampires_SpriteSheet_44
+    21300314: Vampires_SpriteSheet_45
+    21300316: Vampires_SpriteSheet_46
+    21300318: Vampires_SpriteSheet_47
+    21300320: Vampires_SpriteSheet_48
+    21300322: Vampires_SpriteSheet_49
+    21300324: Vampires_SpriteSheet_50
+    21300326: Vampires_SpriteSheet_51
+    21300328: Vampires_SpriteSheet_52
+    21300330: Vampires_SpriteSheet_53
+    21300332: Vampires_SpriteSheet_54
+    21300334: Vampires_SpriteSheet_55
+    21300336: Vampires_SpriteSheet 1_0
+    21300338: Vampires_SpriteSheet 1_1
+    21300340: Vampires_SpriteSheet 1_2
+    21300342: Vampires_SpriteSheet 1_3
+    21300344: Vampires_SpriteSheet 1_4
+    21300346: Vampires_SpriteSheet 1_5
+    21300348: Vampires_SpriteSheet 1_6
+    21300350: Vampires_SpriteSheet 1_7
+    21300352: Vampires_SpriteSheet 1_8
+    21300354: Vampires_SpriteSheet 1_9
+    21300356: Vampires_SpriteSheet 1_10
+    21300358: Vampires_SpriteSheet 1_11
+    21300360: Vampires_SpriteSheet 1_12
+    21300362: Vampires_SpriteSheet 1_13
+    21300364: Vampires_SpriteSheet_pivotmap_0
+    21300366: Vampires_SpriteSheet_pivotmap_1
+    21300368: Vampires_SpriteSheet_pivotmap_2
+    21300370: Vampires_SpriteSheet_pivotmap_3
+    21300372: Vampires_SpriteSheet_pivotmap_4
+    21300374: Vampires_SpriteSheet_pivotmap_5
+    21300376: Vampires_SpriteSheet_pivotmap_6
+    21300378: Vampires_SpriteSheet_pivotmap_7
+    21300380: Vampires_SpriteSheet_pivotmap_8
+    21300382: Vampires_SpriteSheet_pivotmap_9
+    21300384: Vampires_SpriteSheet_pivotmap_10
+    21300386: Vampires_SpriteSheet_pivotmap_11
+    21300388: Vampires_SpriteSheet_pivotmap_12
+    21300390: Vampires_SpriteSheet_pivotmap_13
+    21300392: Vampire_pivotmap_0
+    21300394: Vampire_pivotmap_1
+    21300396: Vampire_pivotmap_2
+    21300398: Vampire_pivotmap_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Vampire_pivotmap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -16, y: 10}
+        - {x: -16, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: 6, y: 15}
+    - name: Vampire_pivotmap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 15}
+        - {x: -16, y: 11}
+        - {x: -16, y: -15}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -2}
+        - {x: 11, y: 15}
+    - name: Vampire_pivotmap_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -7}
+        - {x: -11, y: -12}
+        - {x: -10, y: -12}
+        - {x: -12, y: -14}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 3}
+        - {x: 7, y: 16}
+    - name: Vampire_pivotmap_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -8}
+        - {x: -11, y: -12}
+        - {x: -10, y: -12}
+        - {x: -12, y: -14}
+        - {x: -12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 2}
+        - {x: 8, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

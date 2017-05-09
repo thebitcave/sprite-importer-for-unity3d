@@ -1,0 +1,39 @@
+SPRITE IMPORTER PLUGIN - By TheBitCave (c) 2015
+http://thebitcave.com
+
+- Code by Marco Secchi
+
+--- v 1.3.0 ---
+* New: added pivot map support
+* Bugfix: packing tags were not applied to multiple sprites
+
+--- v 1.2.5 ---
+* New: slicing by cell count
+* Improvement: added padding and offset options to multi-sprite slicing
+* Bugfix: slice name was wrongly ordered
+
+--- v 1.2.4 ---
+* New: added ETC1 support for the Android platform
+* Improvement: added Tizen platform support (and removed BlackBerry as in the unity Editor)
+
+--- v 1.2.3 ---
+* Bugfix: fixed SetPlatformTextureSettings incompatibility with Unity 5.2
+
+--- v 1.2.2 ---
+* Improvement: better handling of generated files and folders
+* Bugfix: removed warning when importing sliced sprites
+
+--- v 1.2.0 ---
+* New: templates can be created extracting data from a sprite
+* New: templates can be applied to single sprites
+* New: dynamic generation of menu elements for template selection
+
+--- v 1.1.0 ---
+* New: Added template system
+* Bugfix: Transparent sprites in Multiple Sprites are now ignored (unless you really want it and toggle the appropriate checkbox)
+
+--- v 1.0.0 ---
+* Initial release
+
+
+

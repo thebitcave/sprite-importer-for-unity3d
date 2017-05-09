@@ -1,0 +1,50 @@
+===============
+Unity generated
+===============
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+
+=====================================
+Visual Studio / MonoDevelop generated
+=====================================
+[Ee]xported[Oo]bj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+=============
+Local Plugins
+=============
+Assets/AssetStoreTools/
+Assets/AssetStoreTools.meta
+Assets/TheBitCave/SpriteImporter/Templates/
+Assets/TheBitCave/SpriteImporter/Templates.meta
+Assets/TheBitCave/SpriteImporter/Scripts/Editor/Generated/
+Assets/TheBitCave/SpriteImporter/Scripts/Editor/Generated.meta
+
+=============
+Test Folders
+=============
+Assets/Tests/
+Assets/Tests.meta
+
+============
+OS generated
+============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
